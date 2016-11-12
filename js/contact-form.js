@@ -30,9 +30,9 @@ $(document).ready(function(){
         if (proceed) {
             //data to be sent to server
             post_data = {
-                'userName': user_name,
-                'userEmail': user_email,
-                'userMessage': user_message
+                'nme': user_name,
+                'email': user_email,
+                'message': user_message
             };
 
             //Ajax post data to server
