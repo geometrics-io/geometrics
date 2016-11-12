@@ -40,11 +40,11 @@ $(document).ready(function(){
 
                 //load json data from server and output message
                 if (response.type == 'error') {
-                    output = '<div class="error">' + response.text + '</div>';
+                    output = '<div class="error">' + response.code + '</div>';
                 }
                 else {
 
-                    output = '<div class="success">' + response.text + '</div>';
+                    output = '<div class="success">Thank You!</div>';
 
                     //reset values in all input fields
                     $('#contact_form input').val('');
