@@ -82,7 +82,7 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
     -moz-transition: 0 none !important;
 	 -ms-transition: 0 none !important;
     -o-transition: 0 none !important;
-    transition:0 none !important;
+    transition: 0 none !important;
 }
 
 .shadow{
@@ -758,7 +758,7 @@ a.btn-mod:focus{
     vertical-align: middle;
 	font-size: 11px;
 	font-weight: 400;
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 1px;
 	color: #777;
 	border: 1px solid rgba(0,0,0, .1);
