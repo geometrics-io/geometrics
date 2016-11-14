@@ -1,0 +1,3 @@
+{{.Form.Get "message"}}
+
+{{.Form.Get "name"}} ( {{.Form.Get "email"}} )
