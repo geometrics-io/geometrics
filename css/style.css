@@ -41,11 +41,11 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 }
 
 #home {
-    background-color: #4DD0E1;
+    background-color: #84B1ED;
 }
 
 .portfolioHeader {
-    background-color: #4DD0E1;
+    background-color: #84B1ED;
 }
 
 /*-----------------------------------------------------------------*/
@@ -2315,7 +2315,7 @@ a.logo:hover{
 }
 .small-section{
 	padding: 70px 0;
-    background-color: #4DD0E1;
+    background-color: #84B1ED;
 }
 .small-title{
     padding: 0;
@@ -2458,7 +2458,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(17,17,17, .97);*/
+	background: rgba(17,17,17, .97);
 }
 .bg-dark-alfa-30:before,
 .bg-dark-alfa-30 .YTPOverlay:before{
@@ -2468,7 +2468,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(34,34,34, .3);*/
+	background: rgba(34,34,34, .3);
 }
 .bg-dark-alfa-50:before,
 .bg-dark-alfa-50 .YTPOverlay:before{
@@ -2478,7 +2478,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(34,34,34, .5);*/
+	background: rgba(34,34,34, .5);
 }
 .bg-dark-alfa-70:before,
 .bg-dark-alfa-70 .YTPOverlay:before{
@@ -2488,7 +2488,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(17,17,17, .7);*/
+	background: rgba(17,17,17, .7);
 }
 .bg-dark-alfa-90:before,
 .bg-dark-alfa-90 .YTPOverlay:before{
@@ -2498,7 +2498,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(3,3,3, .9);*/
+	background: rgba(3,3,3, .9);
 }
 .bg-light-alfa:before{
 	content: " ";
@@ -2507,7 +2507,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(252,252,252, .97);*/
+	background: rgba(252,252,252, .97);
 }
 .bg-light-alfa-30:before,
 .bg-light-alfa-30 .YTPOverlay:before{
@@ -2517,7 +2517,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(252,252,252, .30);*/
+	background: rgba(252,252,252, .30);
 }
 .bg-light-alfa-50:before,
 .bg-light-alfa-50 .YTPOverlay:before{
@@ -2527,7 +2527,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(252,252,252, .50);*/
+	background: rgba(252,252,252, .50);
 }
 .bg-light-alfa-70:before,
 .bg-light-alfa-70 .YTPOverlay:before{
@@ -2547,7 +2547,7 @@ a.logo:hover{
 	position: absolute;
 	top: 0;
 	left: 0;
-	/*background: rgba(252,252,252, .9);*/
+	background: rgba(252,252,252, .9);
 }
 .bg-color{
     background-color: #e41919;
@@ -3700,7 +3700,7 @@ a.logo:hover{
 }
 
 .icon-clock, .icon-chat {
-    color: #4DD0E1;
+    color: #84B1ED;
 }
 
 .icon-heart {
