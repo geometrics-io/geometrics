@@ -157,7 +157,10 @@ Primary use:    MultiPurpose Template
     .lp-title, .lp-author{
         font-size: 13px;
     }
-
+    #home[data-background] {
+        background: #84B1ED center no-repeat;
+        width: 100%;
+    }
 }
   
 @media only screen and (max-width: 992px) {
