@@ -1,25 +1,15 @@
 @charset "utf-8";
-/*------------------------------------------------------------------
-[Responsive Stylesheet]
-
-Project:    Rhythm
-Version:    2.6
-Last change:   18.04.2016
-Primary use:    MultiPurpose Template  
--------------------------------------------------------------------*/
-
 
 /*------------------------------------------------------------------
 [Table of contents]
 
 1. Small desktop
-2. Tablet landskape
+2. Tablet landscape
 3. Tablet Portrait
 4. Phone
 5. Small Phone
 6. Max Height 768
 -------------------------------------------------------------------*/
-
 
 /* ==============================
    Small desktop
@@ -54,7 +44,7 @@ Primary use:    MultiPurpose Template
 }
 
 /* ==============================
-   Tablet landskape
+   Tablet landscape
    ============================== */
 
 @media only screen and (max-width: 1024px) {
@@ -80,7 +70,6 @@ Primary use:    MultiPurpose Template
     }
 
     #home[data-background] {
-        background: #84B1ED center no-repeat;
         width: 100%;
     }
 }
