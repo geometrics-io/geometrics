@@ -1,0 +1,9 @@
+modalID: 2
+title: Honda Project
+#date: 2014-07-06
+img: honda/3_model.png
+client: Portlight Technology
+clientLink: "https://www.portlighttechnology.com"
+category: Web App
+description: This Honda project was done for Portlight Technologies. It's a touch-screen app that will be displayed at Honda dealerships. It allows the user to view available makes, models, specs, colors, trim levels and current offers.
+details: Rachel utilized HTML5, CSS3, Sass, Bootstrap and JS to build the front-end. Tony connected Rachel's work with the data Damon served up using HTML5 and JavaScript. Damon Schopen created the JavaScript foundation before Tony took over the front-end JS. Damon also built a library that grabs data from the Honda mobile site.

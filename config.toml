@@ -1,0 +1,108 @@
+baseurl = "https://dev.geometrics.io/"
+languageCode = "en-us"
+title = "Geometrics"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Geometrics"
+	description = "Web Developers and Curious Lovers of Technical Puzzles"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Geometrics"
+
+		[params.navigation.links]
+			about     = "About"
+			services  = "Services"
+			portfolio = "Portfolio"
+			contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = ""
+		subtitle   = "Web Developers and Curious Lovers of Technical Puzzles"
+		buttonText = "Find out more"
+		img        = "logo.png"
+
+
+	# About section
+	[params.about]
+		headline    = "We've got what you need!"
+		description = "Our focus is: HTML5, CSS3, Sass, React, Go, JavaScript, Python, PostgreSQL, Node and Caddy. Rachel's previous contract work consisted of building widgets, her current focus is building apps with React. Tony, formerly at IBM, has been working on making things efficient and fast with Go."
+		buttonText  = "Let's Talk!"
+
+
+	# Service section
+	[params.services]
+		headline = "Web Application Developers Serving You With"
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "Curiousity"
+            description = "Always exploring new technologies."
+
+        [[params.services.list]]
+			icon = "fa-paper-plane"
+			title = "Punctuality"
+			description = "We love what we do which drives us!"
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "Minimalism"
+            description = "We appreciate minimalist design."
+
+        [[params.services.list]]
+            icon = "fa-heart"
+            title = "Friendliness"
+            description = "We like people, and puppies, but human communication is our strong suit!"
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	#[params.aside]
+	#	headline = "Get the Creative Theme for Hugo"
+
+	#	[params.aside.button]
+	#		text = "Download now"
+	#		link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+	# Contact section
+	[params.contact]
+		headline = "Let's Get In Touch!"
+		description = "Ready to start your next project with us? That's great! Send us an email and we will get back to you as soon as possible!"
+		#phone = "Don't Call Us"
+		email = "mail@geometrics.io"
+
+	# Google Maps section
+	# [params.location]
+	# 	latitude  = "34.007850"
+	# 	longitude = "-118.499305"
+	# 	maps_api_key = ""
