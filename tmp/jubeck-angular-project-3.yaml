@@ -1,0 +1,9 @@
+modalID: 6
+title: Jubeck New World Brewing Company
+#date: 2014-07-10
+img: jubeck-angular/3_renew.png
+client: Jubeck New World Brewing Company
+clientLink: "http://www.jubeckbrewing.com"
+category: Web App
+description: This project was done for Jubeck New World Brewing. They were looking to track their beer memberships but couldn't find a solution, so they came to us for a custom app. This allows them to add pints and growlers and also edit and renew memberships.
+details: Rachel utilized HTML5, CSS3, Sass, Bootstrap and Angular to build the front-end. Tony also did front-end Angular and connected Rachel's work with the data using Angular, Knex and Node. For fun, we are now re-writing this in React. It works great with Angular but moving forward, React is where it is at for us.
