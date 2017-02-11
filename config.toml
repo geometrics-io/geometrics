@@ -1,4 +1,4 @@
-baseurl = "https://dev.geometrics.io/"
+baseurl = "https://geometrics.io/"
 languageCode = "en-us"
 title = "Geometrics"
 theme = "hugo-creative-theme"
